@@ -1,8 +1,9 @@
-# React + Vite
+# 這是什麼？
+這是以 React 製作的飲料庫存清單。
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 有什麼功能？
+可以修改品項名稱與數量。
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# 如何操作？
+雙擊品向以修改，按下 Enter 確認修改，按下 ESC 放棄修改。
+點擊 + 或 - 修改數量。
